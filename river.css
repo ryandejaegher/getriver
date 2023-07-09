@@ -1,3 +1,8 @@
 footer p a {
   background-image: none !important;
 }
+
+.blog-item-category-wrapper a,
+.blog-item-tag-wrapper a {
+  text-decoration: uppercase !important;
+}
